@@ -1,0 +1,249 @@
+Linux 7.2.0-1-cachyos (mystery) 	08/31/26 	_x86_64_	(24 CPU)
+
+21:39:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:39:59     1000   2030788  653.00  376.00    0.00    0.00 1029.00    20  webapi11
+21:39:59     1000   2031453   58.00  302.00    0.00    0.00  360.00    19  wrk
+
+21:39:58      UID       PID   cswch/s nvcswch/s  Command
+21:39:59     1000   2030788      0.00      0.00  webapi11
+21:39:59     1000   2031453     15.00      0.00  wrk
+
+21:39:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:00     1000   2030788  634.00  375.00    0.00    0.00 1009.00    20  webapi11
+21:40:00     1000   2031453   59.00  305.00    0.00    0.00  364.00    19  wrk
+
+21:39:59      UID       PID   cswch/s nvcswch/s  Command
+21:40:00     1000   2030788      0.00      0.00  webapi11
+21:40:00     1000   2031453      0.00      0.00  wrk
+
+21:40:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:01     1000   2030788  635.00  380.00    0.00    0.00 1015.00    20  webapi11
+21:40:01     1000   2031453   60.00  310.00    0.00    0.00  370.00    19  wrk
+
+21:40:00      UID       PID   cswch/s nvcswch/s  Command
+21:40:01     1000   2030788      0.00      0.00  webapi11
+21:40:01     1000   2031453      0.00      0.00  wrk
+
+21:40:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:02     1000   2030788  652.00  370.00    0.00    0.00 1022.00    20  webapi11
+21:40:02     1000   2031453   58.00  312.00    0.00    0.00  370.00    19  wrk
+
+21:40:01      UID       PID   cswch/s nvcswch/s  Command
+21:40:02     1000   2030788      0.00      0.00  webapi11
+21:40:02     1000   2031453      0.00      0.00  wrk
+
+21:40:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:03     1000   2030788  652.00  373.00    0.00    0.00 1025.00    20  webapi11
+21:40:03     1000   2031453   59.00  312.00    0.00    0.00  371.00    19  wrk
+
+21:40:02      UID       PID   cswch/s nvcswch/s  Command
+21:40:03     1000   2030788      0.00      0.00  webapi11
+21:40:03     1000   2031453      0.00      0.00  wrk
+
+21:40:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:04     1000   2030788  656.00  385.00    0.00    0.00 1041.00    20  webapi11
+21:40:04     1000   2031453   60.00  321.00    0.00    0.00  381.00    19  wrk
+
+21:40:03      UID       PID   cswch/s nvcswch/s  Command
+21:40:04     1000   2030788      0.00      0.00  webapi11
+21:40:04     1000   2031453      0.00      0.00  wrk
+
+21:40:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:05     1000   2030788  654.00  394.00    0.00    0.00 1048.00    20  webapi11
+21:40:05     1000   2031453   62.00  321.00    0.00    0.00  383.00    19  wrk
+
+21:40:04      UID       PID   cswch/s nvcswch/s  Command
+21:40:05     1000   2030788      0.00      0.00  webapi11
+21:40:05     1000   2031453      0.00      0.00  wrk
+
+21:40:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:06     1000   2030788  651.00  374.00    0.00    0.00 1025.00    20  webapi11
+21:40:06     1000   2031453   61.00  314.00    0.00    0.00  375.00    19  wrk
+
+21:40:05      UID       PID   cswch/s nvcswch/s  Command
+21:40:06     1000   2030788      0.00      0.00  webapi11
+21:40:06     1000   2031453      0.00      0.00  wrk
+
+21:40:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:07     1000   2030788  648.00  382.00    0.00    0.00 1030.00    20  webapi11
+21:40:07     1000   2031453   61.00  319.00    0.00    0.00  380.00    19  wrk
+
+21:40:06      UID       PID   cswch/s nvcswch/s  Command
+21:40:07     1000   2030788      0.00      0.00  webapi11
+21:40:07     1000   2031453      0.00      0.00  wrk
+
+21:40:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:08     1000   2030788  659.00  378.00    0.00    0.00 1037.00    20  webapi11
+21:40:08     1000   2031453   65.00  316.00    0.00    0.00  381.00    19  wrk
+
+21:40:07      UID       PID   cswch/s nvcswch/s  Command
+21:40:08     1000   2030788      0.00      0.00  webapi11
+21:40:08     1000   2031453      0.00      0.00  wrk
+
+21:40:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:09     1000   2030788  644.00  380.00    0.00    0.00 1024.00    20  webapi11
+21:40:09     1000   2031453   63.00  317.00    0.00    0.00  380.00    19  wrk
+
+21:40:08      UID       PID   cswch/s nvcswch/s  Command
+21:40:09     1000   2030788      0.00      0.00  webapi11
+21:40:09     1000   2031453      0.00      0.00  wrk
+
+21:40:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:10     1000   2030788  672.00  382.00    0.00    0.00 1054.00    20  webapi11
+21:40:10     1000   2031453   64.00  328.00    0.00    0.00  392.00    19  wrk
+
+21:40:09      UID       PID   cswch/s nvcswch/s  Command
+21:40:10     1000   2030788      0.00      0.00  webapi11
+21:40:10     1000   2031453      0.00      0.00  wrk
+
+21:40:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:11     1000   2030788  659.00  375.00    0.00    0.00 1034.00    20  webapi11
+21:40:11     1000   2031453   64.00  316.00    0.00    0.00  380.00    19  wrk
+
+21:40:10      UID       PID   cswch/s nvcswch/s  Command
+21:40:11     1000   2030788      0.00      0.00  webapi11
+21:40:11     1000   2031453      0.00      0.00  wrk
+
+21:40:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:12     1000   2030788  664.00  395.00    0.00    0.00 1059.00    20  webapi11
+21:40:12     1000   2031453   68.00  324.00    0.00    0.00  392.00    19  wrk
+
+21:40:11      UID       PID   cswch/s nvcswch/s  Command
+21:40:12     1000   2030788      0.00      0.00  webapi11
+21:40:12     1000   2031453      0.00      0.00  wrk
+
+21:40:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:13     1000   2030788  653.00  378.00    0.00    0.00 1031.00    20  webapi11
+21:40:13     1000   2031453   61.00  317.00    0.00    0.00  378.00    19  wrk
+
+21:40:12      UID       PID   cswch/s nvcswch/s  Command
+21:40:13     1000   2030788      0.00      0.00  webapi11
+21:40:13     1000   2031453      0.00      0.00  wrk
+
+21:40:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:14     1000   2030788  680.00  368.00    0.00    0.00 1048.00    20  webapi11
+21:40:14     1000   2031453   61.00  325.00    0.00    0.00  386.00    19  wrk
+
+21:40:13      UID       PID   cswch/s nvcswch/s  Command
+21:40:14     1000   2030788      0.00      0.00  webapi11
+21:40:14     1000   2031453      0.00      0.00  wrk
+
+21:40:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:15     1000   2030788  665.00  371.00    0.00    0.00 1036.00    20  webapi11
+21:40:15     1000   2031453   64.00  318.00    0.00    0.00  382.00    19  wrk
+
+21:40:14      UID       PID   cswch/s nvcswch/s  Command
+21:40:15     1000   2030788      0.00      0.00  webapi11
+21:40:15     1000   2031453      0.00      0.00  wrk
+
+21:40:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:16     1000   2030788  657.00  384.00    0.00    0.00 1041.00    20  webapi11
+21:40:16     1000   2031453   63.00  323.00    0.00    0.00  386.00    19  wrk
+
+21:40:15      UID       PID   cswch/s nvcswch/s  Command
+21:40:16     1000   2030788      0.00      0.00  webapi11
+21:40:16     1000   2031453      0.00      0.00  wrk
+
+21:40:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:17     1000   2030788  662.00  370.00    0.00    0.00 1032.00    20  webapi11
+21:40:17     1000   2031453   63.00  319.00    0.00    0.00  382.00    19  wrk
+
+21:40:16      UID       PID   cswch/s nvcswch/s  Command
+21:40:17     1000   2030788      0.00      0.00  webapi11
+21:40:17     1000   2031453      0.00      0.00  wrk
+
+21:40:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:18     1000   2030788  645.00  396.00    0.00    0.00 1041.00    20  webapi11
+21:40:18     1000   2031453   67.00  318.00    0.00    0.00  385.00    19  wrk
+
+21:40:17      UID       PID   cswch/s nvcswch/s  Command
+21:40:18     1000   2030788      0.00      0.00  webapi11
+21:40:18     1000   2031453      0.00      0.00  wrk
+
+21:40:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:19     1000   2030788  657.00  376.00    0.00    0.00 1033.00    20  webapi11
+21:40:19     1000   2031453   64.00  320.00    0.00    0.00  384.00    19  wrk
+
+21:40:18      UID       PID   cswch/s nvcswch/s  Command
+21:40:19     1000   2030788      0.00      0.00  webapi11
+21:40:19     1000   2031453      0.00      0.00  wrk
+
+21:40:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:20     1000   2030788  671.00  379.00    0.00    0.00 1050.00    20  webapi11
+21:40:20     1000   2031453   64.00  326.00    0.00    0.00  390.00    19  wrk
+
+21:40:19      UID       PID   cswch/s nvcswch/s  Command
+21:40:20     1000   2030788      0.00      0.00  webapi11
+21:40:20     1000   2031453      0.00      0.00  wrk
+
+21:40:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:21     1000   2030788  663.00  397.00    0.00    0.00 1060.00    20  webapi11
+21:40:21     1000   2031453   66.00  327.00    0.00    0.00  393.00    19  wrk
+
+21:40:20      UID       PID   cswch/s nvcswch/s  Command
+21:40:21     1000   2030788      0.00      0.00  webapi11
+21:40:21     1000   2031453      0.00      0.00  wrk
+
+21:40:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:22     1000   2030788  675.00  369.00    0.00    0.00 1044.00    20  webapi11
+21:40:22     1000   2031453   59.00  326.00    0.00    0.00  385.00    19  wrk
+
+21:40:21      UID       PID   cswch/s nvcswch/s  Command
+21:40:22     1000   2030788      0.00      0.00  webapi11
+21:40:22     1000   2031453      0.00      0.00  wrk
+
+21:40:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:23     1000   2030788  668.00  397.00    0.00    0.00 1065.00    20  webapi11
+21:40:23     1000   2031453   62.00  330.00    0.00    0.00  392.00    19  wrk
+
+21:40:22      UID       PID   cswch/s nvcswch/s  Command
+21:40:23     1000   2030788      0.00      0.00  webapi11
+21:40:23     1000   2031453      0.00      0.00  wrk
+
+21:40:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:24     1000   2030788  669.00  372.00    0.00    0.00 1041.00    20  webapi11
+21:40:24     1000   2031453   65.00  323.00    0.00    0.00  388.00    19  wrk
+
+21:40:23      UID       PID   cswch/s nvcswch/s  Command
+21:40:24     1000   2030788      0.00      0.00  webapi11
+21:40:24     1000   2031453      0.00      0.00  wrk
+
+21:40:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:25     1000   2030788  667.00  380.00    0.00    0.00 1047.00    20  webapi11
+21:40:25     1000   2031453   62.00  323.00    0.00    0.00  385.00    19  wrk
+
+21:40:24      UID       PID   cswch/s nvcswch/s  Command
+21:40:25     1000   2030788      0.00      0.00  webapi11
+21:40:25     1000   2031453      0.00      0.00  wrk
+
+21:40:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:26     1000   2030788  666.00  372.00    0.00    0.00 1038.00    20  webapi11
+21:40:26     1000   2031453   65.00  319.00    0.00    0.00  384.00    19  wrk
+
+21:40:25      UID       PID   cswch/s nvcswch/s  Command
+21:40:26     1000   2030788      0.00      0.00  webapi11
+21:40:26     1000   2031453      0.00      0.00  wrk
+
+21:40:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:27     1000   2030788  652.00  377.00    0.00    0.00 1029.00    20  webapi11
+21:40:27     1000   2031453   62.00  315.00    0.00    0.00  377.00    19  wrk
+
+21:40:26      UID       PID   cswch/s nvcswch/s  Command
+21:40:27     1000   2030788      0.00      0.00  webapi11
+21:40:27     1000   2031453      0.00      0.00  wrk
+
+21:40:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+21:40:28     1000   2030788  669.00  360.00    0.00    0.00 1029.00    20  webapi11
+21:40:28     1000   2031453   64.00  315.00    0.00    0.00  379.00    19  wrk
+
+21:40:27      UID       PID   cswch/s nvcswch/s  Command
+21:40:28     1000   2030788      0.00      0.00  webapi11
+21:40:28     1000   2031453      0.00      0.00  wrk
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000   2030788  658.40  378.83    0.00    0.00 1037.23     -  webapi11
+Average:     1000   2031453   62.47  318.70    0.00    0.00  381.17     -  wrk
+
+Average:      UID       PID   cswch/s nvcswch/s  Command
+Average:     1000   2030788      0.00      0.00  webapi11
+Average:     1000   2031453      0.50      0.00  wrk
