@@ -68,4 +68,5 @@ default-process result above:
 | `DOTNET_SYSTEM_NET_SOCKETS_THREAD_COUNT=2` | 1,897,544.03 | 1,153.47% | 16.60% | Consumed more CPU without improving throughput |
 
 An `oha 1.15.0` cross-check (`-c 1024 -z 30s --ipv4`) also left 20.23%
-whole-host CPU idle while reporting a 100% HTTP success rate.
+whole-host CPU idle. Every completed response was HTTP 200; 941 in-flight
+requests were aborted at the duration deadline, as expected without `--wait-ongoing-requests-after-deadline`.
